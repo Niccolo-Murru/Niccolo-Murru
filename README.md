@@ -1,3 +1,5 @@
+## Niccolò Murru | Technical High School Student at ITI.E.Majorana | Junior Software Developer
+
 Hi there 👋.
 
 I'm Niccolo Murru,i'm from italy turin, I'm in hight school studying informatics, and in informatics I'm studing C#.
@@ -10,7 +12,7 @@ I'm Niccolo Murru,i'm from italy turin, I'm in hight school studying informatics
 - I like IA (interesting)
 - I like Virtual Reality
 - I practiced karate for 9 years and box for 4 months 
-- cisco certification study
+- I have certificate cisco
 
 ## here's something i like👌
 - I like manga
